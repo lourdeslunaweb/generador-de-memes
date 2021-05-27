@@ -1,20 +1,23 @@
 # Generador de memes
 
-## Este proyecto fue realizado por:
+### Deploy:
+https://lourdeslunaweb.github.io/generador-de-memes/
+
+#### Este proyecto fue realizado por:
 - [Valeria Alcaraz](https://github.com/valeealcaraz)
 - [Juliana Baez](https://github.com/julianabaezz)
 - [Cecilia Da Silva](https://github.com/ceciliaads)
 - [Lourdes Luna](https://github.com/lourdeslunaweb)
 - [Alexandra Quijano](https://github.com/Alexaquijano22)
 
-### En este proyecto realizamos un editor para generar memes. Creamos una aplicación con la que puede manipular el texto y la imagen de un meme y usamos JavaScript para modificar dinámicamente el contenido y las propiedades. Pudiendo descargar el meme para usarlo y/o compartilo donde quieras.
+#### En este proyecto realizamos un editor para generar memes. Creamos una aplicación con la que puede manipular el texto y la imagen de un meme y usamos JavaScript para modificar dinámicamente el contenido y las propiedades. Pudiendo descargar el meme para usarlo y/o compartilo donde quieras.
 
-### Tecnologías utilizadas:
+#### Tecnologías utilizadas:
 - HTML5
 - CSS3
 - JavaScript
 
-### FUNCIONALIDADES
+#### Funcionalidades
 
 - Meme
 - Alternar entre paneles
@@ -50,8 +53,7 @@
 - Cambiar padding de texto
 - Cambiar alto de línea de texto
 
-#### Accesibilidad
-##### Básica
+#### Accesibilidad Básica
 
 - Los colores tienen un contraste adecuado
 - Las imágenes tiene el atributo alt que corresponde
